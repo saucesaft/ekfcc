@@ -1,0 +1,4 @@
+dependencies:
+  micro_ros_espidf_component:
+    git: https://github.com/micro-ROS/micro_ros_espidf_component.git
+    version: "humble"
