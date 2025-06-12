@@ -12,4 +12,5 @@ idf_component_register(SRCS "rgb.cc" "protocol.cc" "embedded.cc" "wifi_ap.cc"
                         lwip
                         nvs_flash
                         micro_ros_espidf_component
-                    INCLUDE_DIRS ".")
+                    INCLUDE_DIRS "."
+                    )
